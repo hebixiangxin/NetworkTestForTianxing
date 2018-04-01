@@ -53,7 +53,7 @@ public class MainActivity extends Activity implements I_View{
     }
 
 
-
+/*其实我就是想添加一下注释 然后更新到github上面 */
 
     public void setTextViewString( final String str ){
 
